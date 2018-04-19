@@ -1,5 +1,7 @@
 # OneDrive Layout
 
+**NOTE** This repository is archived since OneDrive Files On-Demand is back in Windows 10.
+
 A project born in the removal of placeholder synchronisation for OneDrive for Windows 8.1.
 
 It is well known that OneDrive for Windows 8.1 employs a placeholder technique that gives a user the complete view of his OneDrive, without taking too much space. The trick is to only store the metadata, and acquire the file on demand, either explicitly required by the user (invoking “Make available offine” context menu command), or implicitly when a legacy app tries to access the file.
